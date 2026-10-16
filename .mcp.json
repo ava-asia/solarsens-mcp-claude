@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "solarsens": {
+      "type": "http",
+      "url": "https://mcp.solarsens.co/mcp"
+    }
+  }
+}

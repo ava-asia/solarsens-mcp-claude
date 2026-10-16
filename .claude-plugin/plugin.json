@@ -1,0 +1,20 @@
+{
+  "name": "solarsens-mcp",
+  "displayName": "SolarSENS",
+  "version": "0.1.6",
+  "description": "Read-only access to authorized SolarSENS solar Plants and monitoring data, with five guided check Skills.",
+  "author": {
+    "name": "AVA",
+    "email": "support@solarsens.co",
+    "url": "https://www.avaasia.co/"
+  },
+  "homepage": "https://ai.solarsens.co/",
+  "repository": "https://github.com/ava-asia/solarsens-mcp-claude",
+  "license": "MIT",
+  "keywords": ["solar", "monitoring", "pv", "energy", "alarms", "performance-ratio"],
+  "icon": "./assets/solarsens.png",
+  "documentationUrl": "https://ai.solarsens.co/",
+  "supportUrl": "https://docs.solarsens.co/plugin/support/",
+  "privacyPolicyUrl": "https://docs.solarsens.co/plugin/privacy/",
+  "termsOfServiceUrl": "https://docs.solarsens.co/plugin/terms/"
+}
