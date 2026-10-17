@@ -1,7 +1,7 @@
 {
   "name": "solarsens-mcp",
   "displayName": "SolarSENS",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Read-only access to authorized SolarSENS solar Plants and monitoring data, with five guided check Skills and a setup Skill.",
   "author": {
     "name": "AVA Asia",
