@@ -1,8 +1,8 @@
 # SolarSENS plugin for Claude
 
 SolarSENS is the solar monitoring platform of AVA. This plugin gives Claude
-read-only access to the solar Plants that your SolarSENS account can see, and
-five Skills that guide common checks.
+read-only access to the solar Plants that your SolarSENS account can see, five
+Skills that guide common checks, and a setup Skill.
 
 ## What the plugin does
 
@@ -31,6 +31,7 @@ device telemetry. The current list and each argument are documented at
 | `daily-portfolio-check` | Screen all accessible Plants and review flagged ones |
 | `alarm-triage` | Review active alarms for one Plant against telemetry |
 | `missing-value-check` | Explain a blank, zero, old, or missing value |
+| `setup` | After install: check sign-in and Plant access, and get three checks to start with |
 
 Each Skill is read-only and never invents a value. A missing value is reported
 as missing, not as zero.
